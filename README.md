@@ -2,7 +2,7 @@
 
 **Asignatura:** Implantación de Aplicaciones Web (IAW)  
 **Curso:** 2025/2026  
-**Alumna:** Tamara Marina  
+**Alumna:** Marina Tamaral Gonzalez 
 **Usuario Docker Hub:** [tamaralgonzalezm](https://hub.docker.com/u/tamaralgonzalezm)  
 **Imagen Pública:** `tamaralgonzalezm/nginx-2048`
 
@@ -44,4 +44,3 @@ La imagen ha quedado publicada con éxito. Para verificar su portabilidad, se pu
 Este comando descargará automáticamente la imagen desde Docker Hub y levantará el servidor Nginx con el juego 2048 disponible en el puerto 80 del host.
 
 ---
-**Licencia:** Contenido bajo licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional.
